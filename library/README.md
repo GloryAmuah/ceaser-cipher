@@ -1,0 +1,2 @@
+# ceaser-cipher
+The Caeser cipher, also known as the shift cipher​. It is a substitution cipher where each letter in the original message (called the plaintext) is replaced with a letter corresponding to a certain number of letters up or down in the alphabet.
