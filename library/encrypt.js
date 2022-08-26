@@ -1,5 +1,5 @@
-const numToChar = require('./num-to-char.js')
-const charToNum = require('./char-to-num.js')
+const numToChar = require[ './caeser-cipher/library/num-to-char.js' ]
+const charToNum = require[ './caeser-cipher/library/char-to-num.js' ]
 
 const caesar = (value, shift) => {
   return numToChar(charToNum(value) + (shift % 26))
