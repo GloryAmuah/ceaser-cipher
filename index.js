@@ -1,4 +1,4 @@
-const encrypt = require[ './caeser-cipher/library/encrypt.js' ]
-const decrypt = require[ './caeser-cipher/library/decrypt.js' ]
+const encrypt = require('./library/encrypt');
+const decrypt = require('./library/decrypt');
 
-module.exports = {encrypt, decrypt}
+module.exports = {encrypt, decrypt};
